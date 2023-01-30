@@ -1,0 +1,30 @@
+.titulo {
+	COLOR: red; FONT-FAMILY: Verdana, Tahoma, Arial, Helvetica; FONT-SIZE: 10px; FONT-WEIGHT: bold; LINE-HEIGHT: 16px
+}
+.titulo10 {
+	COLOR: #840010; FONT-FAMILY: Verdana, Tahoma, Arial, Helvetica; FONT-SIZE: 12px; FONT-WEIGHT: bold; LINE-HEIGHT: 16px
+}
+.titulo8 {
+	COLOR: #840010; FONT-FAMILY: Verdana, Tahoma, Arial, Helvetica; FONT-SIZE: 10pt; FONT-WEIGHT: bold; LINE-HEIGHT: 12pt
+}
+.titulo12 {
+	COLOR: #840010; FONT-FAMILY: Verdana, Tahoma, Arial, Helvetica; FONT-SIZE: 16px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px
+}
+.texto8 {
+	FONT-FAMILY: Verdana, Tahoma, Arial, Helvetica; FONT-SIZE: 10pt; LINE-HEIGHT: 12pt
+}
+.texto10 {
+	FONT-FAMILY: Verdana, Tahoma, Arial, Helvetica; FONT-SIZE: 12px; LINE-HEIGHT: 16px
+}
+.texto {
+	COLOR: #000033; FONT-FAMILY: Tahoma, Arial, Helvetica; FONT-SIZE: 10pt; FONT-WEIGHT: normal; LINE-HEIGHT: 11pt
+}
+.texton {
+	COLOR: #000033; FONT-FAMILY: Tahoma, Arial, Helvetica; FONT-SIZE: 8pt; FONT-WEIGHT: bold; LINE-HEIGHT: 11pt
+}
+.link {
+	COLOR: #000066; FONT-FAMILY: Tahoma, Arial, Helvetica; FONT-SIZE: 8pt; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.link:hover {
+	COLOR: #0000dd; TEXT-DECORATION: underline
+}

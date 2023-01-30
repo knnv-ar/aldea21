@@ -1,0 +1,1 @@
+Dar de alta un DSN de sistema cuyo nombre sea: aldea21
